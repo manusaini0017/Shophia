@@ -78,7 +78,7 @@ nav li{margin-right: 15px; }
  .wrap-2 .currency{border: none; background-color: black; color: white; text-transform: uppercase; padding: 4px; margin-left: 47px; width:90px; height: 35px;} 
 
  .menu span{height: 2px; background-color: #000; margin: 6px 10px; display: block; }
- .menu{width: 90px;
+ .menu{width: 50px;
     height: 35px; 
    border-radius: 10px;
    border: 2px solid;
@@ -240,6 +240,7 @@ left: 50%; transform: translateX(-50%);}
 
     .review{column-gap: 22px;}
    
+    .wrap-9 input{width: 166px;}
     
 }
 
@@ -263,6 +264,8 @@ left: 50%; transform: translateX(-50%);}
 
    .review h3{margin: 25px 0 10px 0;}
    .precent{left: 25px;}
+
+   
   
     
 }
